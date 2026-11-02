@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Link to your XML sitemap
-Sitemap: http://127.0.0.1:5501/sitemap.xml
+Sitemap: https://tebogo-10111.github.io/Web-POE/sitemap.xml
